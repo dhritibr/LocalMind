@@ -1,0 +1,4 @@
+.env
+venv
+documents
+chroma_db

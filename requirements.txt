@@ -1,0 +1,11 @@
+streamlit
+langchain
+google-generativeai           
+langchain-google-genai
+PyPDF2                      
+langchain-text-splitters
+chromadb
+langchain-chroma
+python-dotenv
+pandas
+numpy
